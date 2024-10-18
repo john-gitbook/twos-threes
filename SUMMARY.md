@@ -13,4 +13,3 @@
 * [Markdown](basics/markdown.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
