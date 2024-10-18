@@ -18,6 +18,6 @@
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 
-  ## Another group here
+## Another group here
 * [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
